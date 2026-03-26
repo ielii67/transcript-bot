@@ -19,7 +19,6 @@ It supports common formats like `.mp3`, `.wav`, `.ogg`, `.flac`, and `.m4a`.
 3. Install dependencies:
 ```pip install -r requirements.txt```
 4. Create a .env file in the project root:
-```Create a .env file in the project root:```
     ```ASSEMBLYAI_API_KEY = YOUR KEY```
     ```DISCORD_TOKEN = YOUR TOKEN```
 
