@@ -12,12 +12,10 @@ It supports common formats like `.mp3`, `.wav`, `.ogg`, `.flac`, and `.m4a`.
 
 ## Installation
 1. Clone this repository:
-```bash
-   git clone https://github.com/yourusername/discord-transcriber-bot.git
-   cd discord-transcriber-bot```
+   ```git clone https://github.com/yourusername/discord-transcriber-bot.git```
+   ```cd discord-transcriber-bot```
 2. Create and activate a virtual environment:
-```python -m venv .venv
-source .venv/bin/activate   # On Windows: .venv\Scripts\activate```
+```python -m venv .venv```
 3. Install dependencies:
 ```pip install -r requirements.txt```
 4. Create a .env file in the project root:
