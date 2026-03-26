@@ -5,7 +5,7 @@ It supports common formats like `.mp3`, `.wav`, `.ogg`, `.flac`, and `.m4a`.
 > Note: Discord does not allow accessing voice messages as files so this bot does not transcribe voice messages, only uploaded audio files!
 
 ## Features
-- :microphone2: Transcribes audio files uploaded directly into Discord channels.
+- :microphone: Transcribes audio files uploaded directly into Discord channels.
 - :paperclip: Handles forwarded messages with audio attachments.
 - :warning: Detects Discord voice messages and politely informs users that these cannot be transcribed (Discord does not expose voice message audio to bots).
 - :key: Uses environment variables for secure API key and token management.
