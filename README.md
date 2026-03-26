@@ -12,14 +12,16 @@ It supports common formats like `.mp3`, `.wav`, `.ogg`, `.flac`, and `.m4a`.
 
 ## Installation
 1. Clone this repository:
-   ```git clone https://github.com/yourusername/discord-transcriber-bot.git```
-   ```cd discord-transcriber-bot```
+   ```git clone https://github.com/ielii67/transcript-bot.git```
+   ```cd transcript-bot```
 2. Create and activate a virtual environment:
 ```python -m venv .venv```
 3. Install dependencies:
 ```pip install -r requirements.txt```
 4. Create a .env file in the project root:
 ```Create a .env file in the project root:```
+    ```ASSEMBLYAI_API_KEY = YOUR KEY```
+    ```DISCORD_TOKEN = YOUR TOKEN```
 
 ## How to Run the Bot
    ```python main.py```
